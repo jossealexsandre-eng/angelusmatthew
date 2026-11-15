@@ -138,7 +138,6 @@ export default function Experience() {
           {/* Subsection 1: Kepanitiaan & Aksi Sosial (Reverse Chronological) */}
           <div className="experience__group">
             <Reveal className="experience__group-header" delay={40}>
-              <span className="experience__group-eyebrow">{t("experience.group1")}</span>
               <h3 className="experience__group-title">{t("experience.subhead.committee")}</h3>
             </Reveal>
 
@@ -174,7 +173,6 @@ export default function Experience() {
           {/* Subsection 2: Pengalaman Organisasi & Kepemimpinan */}
           <div className="experience__group experience__group--separated">
             <Reveal className="experience__group-header" delay={40}>
-              <span className="experience__group-eyebrow">{t("experience.group2")}</span>
               <h3 className="experience__group-title">{t("experience.subhead.organization")}</h3>
             </Reveal>
 

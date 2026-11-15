@@ -20,7 +20,7 @@ export const TRANSLATIONS = {
     "nav.downloadCvFull": "Unduh CV (PDF)",
     "nav.openMenu": "Buka menu navigasi",
     "nav.closeMenu": "Tutup menu navigasi",
-    "nav.menuTitle": "M A — Portofolio",
+    "nav.menuTitle": "M A Portofolio",
     "nav.location": "Bandung, Indonesia",
 
     // Theme & Language
@@ -36,7 +36,7 @@ export const TRANSLATIONS = {
     "hero.scroll": "GULIR UNTUK EKSPLORASI",
 
     // About
-    "about.eyebrow": "01 — TENTANG SAYA",
+    "about.eyebrow": "",
     "about.title1": "tentang",
     "about.title2": "saya",
     "about.lead": "Bagi saya, hukum dimulai dari rasa ingin tahu dan keberanian untuk peduli.",
@@ -44,25 +44,25 @@ export const TRANSLATIONS = {
     "about.p2": "Saya menikmati proses belajar, berdiskusi, dan memahami berbagai perspektif. Saya ingin menjadi pribadi yang tidak hanya paham hukum secara teori, tetapi juga mampu menerapkannya dengan integritas, empati, dan tanggung jawab.",
     "about.metaCampus": "Fakultas Hukum & Bisnis Digital · Maranatha",
     "about.quote": "Facta, non verba.",
-    "about.stats.education": "Pendidikan yang ditempuh - 12 Tahun",
-    "about.stats.org": "Kegiatan organisasi - 5 Organisasi",
-    "about.stats.industry": "Pengalaman Industri - 4 Industri",
-    "about.stats.competition": "Kompetisi diikuti - 3 Kompetisi",
+    "about.stats.education": "Pendidikan Ditempuh (12 Tahun)",
+    "about.stats.org": "Kegiatan Organisasi (5 Organisasi)",
+    "about.stats.industry": "Pengalaman Industri (4 Bidang)",
+    "about.stats.competition": "Kompetisi Diikuti (3 Kompetisi)",
 
     // Skills
-    "skills.eyebrow": "02 — KEAHLIAN",
+    "skills.eyebrow": "",
     "skills.title": "Kemampuan",
     "skills.accent": "& Keahlian",
     "skills.col1": "Keahlian Profesional",
     "skills.col2": "Digital & Produktivitas",
     "skills.col3": "Keahlian Interpersonal",
     "skills.languages": "Kemampuan Bahasa",
-    "skills.lang.id": "Bahasa Indonesia — Asli (Native)",
-    "skills.lang.en": "Bahasa Inggris — Tingkat Dasar (Basic)",
-    "skills.lang.fr": "Bahasa Prancis — Tingkat Dasar (Basic)",
+    "skills.lang.id": "Bahasa Indonesia (Native)",
+    "skills.lang.en": "Bahasa Inggris (Basic)",
+    "skills.lang.fr": "Bahasa Prancis (Basic)",
 
     // Projects (Certificates)
-    "projects.eyebrow": "03 — SERTIFIKAT",
+    "projects.eyebrow": "",
     "projects.title": "Pencapaian Terpilih.",
     "projects.lead": "Perjalanan belajar, pengalaman, dan pencapaian yang membentuk langkah saya.",
     "projects.counter": "sertifikat",
@@ -83,24 +83,24 @@ export const TRANSLATIONS = {
     "projects.dialog.regNum": "Nomor Registrasi",
 
     // Experience
-    "experience.eyebrow": "04 — PENGALAMAN",
+    "experience.eyebrow": "",
     "experience.title": "Pengalaman",
     "experience.accent": "& Organisasi",
     "experience.lead": "Perjalanan dan keterlibatan aktif saya dalam kepanitiaan, aksi sosial relawan, serta kepemimpinan organisasi.",
     "experience.subhead.committee": "Kepanitiaan & Aksi Sosial",
     "experience.subhead.organization": "Organisasi & Kepemimpinan",
-    "experience.group1": "01 / URUTAN KRONOLOGIS",
-    "experience.group2": "02 / KEPEMIMPINAN & KEDISIPLINAN",
+    "experience.group1": "",
+    "experience.group2": "",
     "experience.education.title": "Riwayat Pendidikan",
 
     // Achievements
-    "achievements.eyebrow": "05 — PRESTASI",
+    "achievements.eyebrow": "",
     "achievements.title": "Pencapaian",
     "achievements.accent": "& Penghargaan",
     "achievements.lead": "Tonggak pencapaian dan apresiasi yang diraih selama perjalanan studi.",
 
     // Gallery
-    "gallery.eyebrow": "06 — ARSIP POTRET",
+    "gallery.eyebrow": "",
     "gallery.heading": "Potret & Dedikasi.",
     "gallery.lead": "Dokumentasi visual perjalanan akademis di Universitas Kristen Maranatha serta potret representasi personal.",
     "gallery.prev": "Foto sebelumnya",
@@ -109,7 +109,7 @@ export const TRANSLATIONS = {
     "gallery.region": "Koleksi foto arsip pribadi Matthew Angelus",
 
     // Contact
-    "contact.eyebrow": "07 — KONTAK",
+    "contact.eyebrow": "",
     "contact.heading": "Mari terhubung.",
     "contact.lead": "Terbuka untuk berbagi ide, berdiskusi, membangun relasi, dan menjajaki peluang kolaborasi.",
     "contact.formTitle": "Kirim Pesan",
@@ -148,7 +148,7 @@ export const TRANSLATIONS = {
     "nav.downloadCvFull": "Download CV (PDF)",
     "nav.openMenu": "Open navigation menu",
     "nav.closeMenu": "Close navigation menu",
-    "nav.menuTitle": "M A — Portfolio",
+    "nav.menuTitle": "M A Portfolio",
     "nav.location": "Bandung, Indonesia",
 
     // Theme & Language
@@ -164,7 +164,7 @@ export const TRANSLATIONS = {
     "hero.scroll": "SCROLL TO EXPLORE",
 
     // About
-    "about.eyebrow": "01 — ABOUT ME",
+    "about.eyebrow": "",
     "about.title1": "about",
     "about.title2": "me",
     "about.lead": "For me, the law begins with curiosity and the courage to care.",
@@ -172,25 +172,25 @@ export const TRANSLATIONS = {
     "about.p2": "I value the process of continuous learning, rigorous discussion, and understanding diverse perspectives. My aspiration is to be an individual who not only grasps legal theory, but applies it with integrity, empathy, and steadfast responsibility.",
     "about.metaCampus": "Faculty of Law & Digital Business · Maranatha",
     "about.quote": "Facta, non verba.",
-    "about.stats.education": "Formal Education - 12 Years",
-    "about.stats.org": "Organizational Activities - 5 Organizations",
-    "about.stats.industry": "Industry Exposures - 4 Fields",
-    "about.stats.competition": "Competitions Entered - 3 Competitions",
+    "about.stats.education": "Formal Education (12 Years)",
+    "about.stats.org": "Organizational Activities (5 Organizations)",
+    "about.stats.industry": "Industry Exposures (4 Fields)",
+    "about.stats.competition": "Competitions Entered (3 Competitions)",
 
     // Skills
-    "skills.eyebrow": "02 — SKILLS",
+    "skills.eyebrow": "",
     "skills.title": "Skills",
     "skills.accent": "& Expertise",
     "skills.col1": "Professional Skills",
     "skills.col2": "Digital & Productivity",
     "skills.col3": "Soft Skills",
     "skills.languages": "Languages",
-    "skills.lang.id": "Indonesian — Native",
-    "skills.lang.en": "English — Basic",
-    "skills.lang.fr": "French — Basic",
+    "skills.lang.id": "Indonesian (Native)",
+    "skills.lang.en": "English (Basic)",
+    "skills.lang.fr": "French (Basic)",
 
     // Projects (Certificates)
-    "projects.eyebrow": "03 — CERTIFICATES",
+    "projects.eyebrow": "",
     "projects.title": "Selected Achievements.",
     "projects.lead": "A collection of learning experiences and achievements that have shaped my personal and academic journey.",
     "projects.counter": "certificates",
@@ -211,24 +211,24 @@ export const TRANSLATIONS = {
     "projects.dialog.regNum": "Registration Number",
 
     // Experience
-    "experience.eyebrow": "04 — EXPERIENCE",
+    "experience.eyebrow": "",
     "experience.title": "Experience",
     "experience.accent": "& Organizations",
     "experience.lead": "My journey and active involvement across event committees, volunteer initiatives, and organizational leadership.",
     "experience.subhead.committee": "Committees & Volunteering",
     "experience.subhead.organization": "Organizational & Leadership",
-    "experience.group1": "01 / REVERSE CHRONOLOGICAL",
-    "experience.group2": "02 / LEADERSHIP & DISCIPLINE",
+    "experience.group1": "",
+    "experience.group2": "",
     "experience.education.title": "Education Background",
 
     // Achievements
-    "achievements.eyebrow": "05 — ACHIEVEMENTS",
+    "achievements.eyebrow": "",
     "achievements.title": "Achievements",
     "achievements.accent": "& Recognitions",
     "achievements.lead": "Key milestones and recognitions earned throughout my academic pursuit.",
 
     // Gallery
-    "gallery.eyebrow": "06 — PORTRAIT ARCHIVE",
+    "gallery.eyebrow": "",
     "gallery.heading": "Portraits & Dedication.",
     "gallery.lead": "A visual archive documenting academic life at Maranatha Christian University and personal portraits.",
     "gallery.prev": "Previous photo",
@@ -237,7 +237,7 @@ export const TRANSLATIONS = {
     "gallery.region": "Personal photo archive of Matthew Angelus",
 
     // Contact
-    "contact.eyebrow": "07 — CONTACT",
+    "contact.eyebrow": "",
     "contact.heading": "Let's Connect.",
     "contact.lead": "Open to exchanging ideas, meaningful conversations, building connections, and exploring collaboration opportunities.",
     "contact.formTitle": "Send a Message",

@@ -46,10 +46,10 @@ export const ABOUT_STORY = [
 export const ABOUT_NOTE = "Tidak perlu berisik untuk terlihat bersungguh-sungguh.";
 
 export const STATS = [
-  { value: 12, label: "Pendidikan yang ditempuh - 12 Tahun" },
-  { value: 5, label: "Kegiatan organisasi - 5 Organisasi" },
-  { value: 4, label: "Pengalaman Industri - 4 Industri" },
-  { value: 3, label: "Kompetisi diikuti - 3 Kompetisi" },
+  { value: 12, label: "Pendidikan Ditempuh (12 Tahun)" },
+  { value: 5, label: "Kegiatan Organisasi (5 Organisasi)" },
+  { value: 4, label: "Pengalaman Industri (4 Bidang)" },
+  { value: 3, label: "Kompetisi Diikuti (3 Kompetisi)" },
 ];
 
 export const SKILL_GROUPS = [
@@ -87,9 +87,9 @@ export const SOFT_SKILLS = [
 ];
 
 export const LANGUAGES = [
-  { id: "Bahasa Indonesia — Native", en: "Indonesian — Native" },
-  { id: "English — Basic", en: "English — Basic" },
-  { id: "French — Basic", en: "French — Basic" },
+  { id: "Bahasa Indonesia (Native)", en: "Indonesian (Native)" },
+  { id: "Bahasa Inggris (Basic)", en: "English (Basic)" },
+  { id: "Bahasa Prancis (Basic)", en: "French (Basic)" },
 ];
 
 export const PROJECT_FILTERS = [
@@ -578,9 +578,9 @@ export const ACHIEVEMENTS = [
     date: "Agustus 2026",
     date_id: "Agustus 2026",
     date_en: "August 2026",
-    title: "1st Place — Cerdas Hukum Championship 2026",
-    title_id: "Juara 1 — Cerdas Hukum Championship 2026",
-    title_en: "1st Place — Cerdas Hukum Championship 2026",
+    title: "1st Place Cerdas Hukum Championship 2026",
+    title_id: "Juara 1 Cerdas Hukum Championship 2026",
+    title_en: "1st Place Cerdas Hukum Championship 2026",
     issuer: "Kantor Wilayah Kementerian Hukum Jawa Barat",
     issuer_id: "Kantor Wilayah Kementerian Hukum Jawa Barat",
     issuer_en: "West Java Regional Office of the Ministry of Law",
@@ -608,9 +608,9 @@ export const ACHIEVEMENTS = [
     date: "September 2025",
     date_id: "September 2025",
     date_en: "September 2025",
-    title: "BLAZE 2025 — Grade A (Final Score: 90)",
-    title_id: "BLAZE 2025 — Predikat A (Nilai Akhir: 90)",
-    title_en: "BLAZE 2025 — Grade A (Final Score: 90)",
+    title: "BLAZE 2025 Grade A (Final Score: 90)",
+    title_id: "BLAZE 2025 Predikat A (Nilai Akhir: 90)",
+    title_en: "BLAZE 2025 Grade A (Final Score: 90)",
     issuer: "Universitas Kristen Maranatha",
     issuer_id: "Universitas Kristen Maranatha",
     issuer_en: "Maranatha Christian University",

@@ -246,9 +246,8 @@ export default function Gallery() {
             2-COLUMN EDITORIAL SECTION HEADER
             ======================================================== */}
         <div className="gallery__header">
-          {/* Left Column: Eyebrow + Large Editorial Heading */}
+          {/* Left Column: Large Editorial Heading */}
           <div className="gallery__header-left">
-            <span className="eyebrow gallery__eyebrow">{t("gallery.eyebrow")}</span>
             <h2 className="gallery__heading">{t("gallery.heading")}</h2>
           </div>
 
@@ -355,7 +354,7 @@ export default function Gallery() {
 
                 <figcaption className="gallery__card-caption">
                   <span className="gallery__card-tag">
-                    {item.index} — {tag}
+                    {tag}
                   </span>
                   <h3 className="gallery__card-title">{title}</h3>
                 </figcaption>
@@ -458,7 +457,7 @@ export default function Gallery() {
 
             <div className="gallery-lightbox__meta">
               <span className="gallery-lightbox__tag">
-                {GALLERY_ARCHIVE[lightboxIndex].index} — {GALLERY_ARCHIVE[lightboxIndex][`tag_${lang}`] || GALLERY_ARCHIVE[lightboxIndex].tag}
+                {GALLERY_ARCHIVE[lightboxIndex][`tag_${lang}`] || GALLERY_ARCHIVE[lightboxIndex].tag}
               </span>
               <h3 className="gallery-lightbox__title">
                 {GALLERY_ARCHIVE[lightboxIndex][`title_${lang}`] || GALLERY_ARCHIVE[lightboxIndex].title}

@@ -122,7 +122,6 @@ export default function Contact() {
       <div className="container contact">
         {/* Left Editorial Info */}
         <Reveal className="contact__info">
-          <p className="eyebrow">{t("contact.eyebrow")}</p>
           <h2>{t("contact.heading")}</h2>
           <span className="divider" />
           <p>{t("contact.lead")}</p>
